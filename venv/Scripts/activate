@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\PUP-CITE-CAD23\Desktop\API_Backend\venv"
+VIRTUAL_ENV="C:\Users\PUP-CITE-CAD23\Desktop\API_backend2\API_Backend\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
